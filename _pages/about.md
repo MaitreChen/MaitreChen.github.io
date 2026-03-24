@@ -85,7 +85,10 @@ My research interests lie in affective computing, with a particular focus on mul
 # 🔥 News
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
-  <li><em>2025.08:</em> 🚀 MOFA was accepted to <strong>PRCV 2025</strong>-Shanghai, here we come!</li>
+  <li><em>2025.08:</em> 🎉 MOFA was accepted by <strong>PRCV 2025</strong>-Shanghai, here we come!</li>
+</ul>
+<ul>
+  <li><em>2026.03:</em> 🎉🎉 MCI-FED was accepted by IEEE Trans. on Affective Computing!</li>
 </ul>
 </div>
 
