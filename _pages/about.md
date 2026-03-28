@@ -26,7 +26,8 @@ redirect_from:
   }
 
   hr {
-    border: 1px solid #ebebeb; 
+    border: 1px solid #ebebeb;
+    margin: 20px 0; 
     clear: both; 
   }
 
@@ -136,25 +137,7 @@ Let's collaborate! I promise to reply to your email much faster than my deepest 
 <dl>
 <dt>
     <div class="pub-img-wrapper">
-      <span class="pub-badge">PRCV 2025</span>
-      <img width="400" src="../images/paper/MOFA.jpg" alt="MOFA">
-    </div>
-  </dt>
-  <dd>
-    <a href="https://link.springer.com/chapter/10.1007/978-981-95-5567-3_29" class="publication-title">MOFA: Modality-Orthogonalized Fusion Architecture for Multimodal Emotion Recognition
-    </a>
-  </dd>
-  <dd><strong>Hongbin Chen</strong>, Rui Feng, Jie Li, Wei Wang, Jianqin Li*, Wentao Xiang*</dd>
-  <dd>Chinese Conference on Pattern Recognition and Computer Vision <strong>(PRCV)</strong>, 2025</dd>
-</dl>
-
-<hr>
-
-
-<dl>
-<dt>
-    <div class="pub-img-wrapper">
-      <span class="pub-badge">TAFFC 2025</span>
+      <span class="pub-badge">TAFFC 2026</span>
       <img width="400" src="../images/paper/ES-DPNet.jpg" alt="ES-DPNet">
     </div>
   </dt>
@@ -172,6 +155,26 @@ Let's collaborate! I promise to reply to your email much faster than my deepest 
 </dl>
 
 <hr>
+
+<dl>
+<dt>
+    <div class="pub-img-wrapper">
+      <span class="pub-badge">PRCV 2025</span>
+      <img width="400" src="../images/paper/MOFA.jpg" alt="MOFA">
+    </div>
+  </dt>
+  <dd>
+    <a href="https://link.springer.com/chapter/10.1007/978-981-95-5567-3_29" class="publication-title">MOFA: Modality-Orthogonalized Fusion Architecture for Multimodal Emotion Recognition
+    </a>
+  </dd>
+  <dd><strong>Hongbin Chen</strong>, Rui Feng, Jie Li, Wei Wang, Jianqin Li*, Wentao Xiang*</dd>
+  <dd>Chinese Conference on Pattern Recognition and Computer Vision <strong>(PRCV)</strong>, 2025</dd>
+</dl>
+
+<hr>
+
+
+
 
 
 
