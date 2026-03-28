@@ -100,11 +100,7 @@ My research interests lie in affective computing, with a particular focus on mul
 <hr>
 
 <dl>
-  <!-- <dt><img align="left" width="400" src="../images/paper/MOFA.jpg" alt="MOFA">
-  </dt> -->
-  <dt class="paper-img">
-    <img width="400" src="../images/paper/MOFA.jpg" alt="MOFA">
-    <div class="badge">PRCV 2025</div>
+  <dt><img align="left" width="400" src="../images/paper/MOFA.jpg" alt="MOFA">
   </dt>
   <dd>
     <a href="https://link.springer.com/chapter/10.1007/978-981-95-5567-3_29" class="publication-title">MOFA: Modality-Orthogonalized Fusion Architecture for Multimodal Emotion Recognition
