@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<style>
+<!-- <style>
   dl {
     margin-top: 1px;
     margin-bottom: 5px; /* 调整这个值以获得合适的间距 */
@@ -64,7 +64,7 @@ redirect_from:
     color: #B02418;
   }
   
-</style>
+</style> -->
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
@@ -100,8 +100,16 @@ My research interests lie in affective computing, with a particular focus on mul
 <hr>
 
 <dl>
-  <dt><img align="left" width="400" src="../images/paper/MOFA.jpg" alt="MOFA"></dt>
-  <dd><a href="https://link.springer.com/chapter/10.1007/978-981-95-5567-3_29" class="publication-title">MOFA: Modality-Orthogonalized Fusion Architecture for Multimodal Emotion Recognition</a></dd>
+  <!-- <dt><img align="left" width="400" src="../images/paper/MOFA.jpg" alt="MOFA">
+  </dt> -->
+  <dt class="paper-img">
+    <img width="400" src="../images/paper/MOFA.jpg" alt="MOFA">
+    <div class="badge">PRCV 2025</div>
+  </dt>
+  <dd>
+    <a href="https://link.springer.com/chapter/10.1007/978-981-95-5567-3_29" class="publication-title">MOFA: Modality-Orthogonalized Fusion Architecture for Multimodal Emotion Recognition
+    </a>
+  </dd>
   <dd><strong>Hongbin Chen</strong>, Rui Feng, Jie Li, Wei Wang, Jianqin Li*, Wentao Xiang*</dd>
   <dd>Chinese Conference on Pattern Recognition and Computer Vision <strong>(PRCV)</strong>, 2025</dd>
   <dd><a>[Project Page]</a></dd>
