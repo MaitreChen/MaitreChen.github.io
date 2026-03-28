@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<!-- <style>
+<style>
   dl {
     margin-top: 1px;
     margin-bottom: 5px; /* 调整这个值以获得合适的间距 */
@@ -63,8 +63,34 @@ redirect_from:
   .spotlight {
     color: #B02418;
   }
+
+  /* 新增：用于包裹图片并作为绝对定位的参考系 */
+  .pub-img-wrapper {
+    position: relative;
+    float: left; /* 替代原来的 img align="left" */
+    margin: 0px 15px 10px 0px;
+  }
   
-</style> -->
+  /* 新增：清除图片自带的外边距，防止排版冲突 */
+  .pub-img-wrapper img {
+    margin: 0; 
+  }
+
+  /* 新增：左上角 Badge 的样式 */
+  .pub-badge {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #B02418; /* 使用你预设的主题红 */
+    color: white;
+    padding: 3px 8px;
+    font-size: 13px;
+    font-weight: bold;
+    z-index: 10;
+    border-bottom-right-radius: 6px; /* 右下角增加圆角，视觉更柔和 */
+  }
+  
+</style>
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
@@ -78,7 +104,7 @@ redirect_from:
 # Short Bio
 My name is Hongbin Chen (陈宏斌), and I am currently a second-year Master's student in Biotechnology and Engineering at the [School of Biomedical Engineering and Informatics, Nanjing Medical University](https://english.njmu.edu.cn/), supervised by Prof. [Jianqing Li](https://bmei.njmu.edu.cn/2018/1120/c19988a262557/page.htm) and Assoc. Prof. [Wentao Xiang](https://scholar.google.com/citations?hl=zh-CN&user=-foPGxYAAAAJ&view_op=list_works&sortby=pubdate). I am also a Ph.D. candidate in Clinical Medical Engineering and affiliated with the Jiangsu Province Engineering Research Center for Smart Wearable and Rehabilitation Devices. 
 
-My research interests lie in affective computing, with a particular focus on multimodal emotion recognition for older adults. Have fun!
+My research interests lie in **Affective Computing** and **Multimodal Learning**, with a particular focus on multimodal emotion recognition for older adults. Have fun!
 
 
 
@@ -100,7 +126,11 @@ My research interests lie in affective computing, with a particular focus on mul
 <hr>
 
 <dl>
-  <dt><img align="left" width="400" src="../images/paper/MOFA.jpg" alt="MOFA">
+<dt>
+    <div class="pub-img-wrapper">
+      <span class="pub-badge">PRCV 2025</span>
+      <img width="400" src="../images/paper/MOFA.jpg" alt="MOFA">
+    </div>
   </dt>
   <dd>
     <a href="https://link.springer.com/chapter/10.1007/978-981-95-5567-3_29" class="publication-title">MOFA: Modality-Orthogonalized Fusion Architecture for Multimodal Emotion Recognition
