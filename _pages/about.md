@@ -27,7 +27,7 @@ redirect_from:
 
   hr {
     border: 1px solid #ebebeb;
-    margin: 20px 0; 
+    margin: 30px 0; 
     clear: both; 
   }
 
@@ -119,7 +119,7 @@ Let's collaborate! I promise to reply to your email much faster than my deepest 
 # 🔥 News
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
-  <li><em>2026.03:</em> 🎉🎉 MCI-FED was accepted by IEEE Trans. on Affective Computing!</li>
+  <li><em>2026.03:</em> 🎉🎉 ES-DPNet was accepted by IEEE Trans. on Affective Computing!</li>
 </ul>
 <ul>
   <li><em>2025.08:</em> 🎉🎉 MOFA was accepted by PRCV 2025!</li>
@@ -142,10 +142,12 @@ Let's collaborate! I promise to reply to your email much faster than my deepest 
     </div>
   </dt>
   <dd>
-    <a href="https://link.springer.com/chapter/10.1007/978-981-95-5567-3_29" class="publication-title">Facial Expression Recognition for Chinese Elderly Using Edge and Semantic features Dual Path Network with Two-step Transfer Learning
+    <!-- <a href="https://link.springer.com/chapter/10.1007/978-981-95-5567-3_29" class="publication-title">Facial Expression Recognition for Chinese Elderly Using Edge and Semantic features Dual Path Network with Two-step Transfer Learning
+    </a> -->
+    <a href="javascript:alert('The publisher is still brewing the coffee! Paper will be online soon. ☕');" class="publication-title" style="cursor: help;">Facial Expression Recognition for Chinese Elderly Using Edge and Semantic features Dual Path Network with Two-step Transfer Learning
     </a>
   </dd>
-  <dd>Keke Shi, <strong>Hongbin Chen</strong>, Keshu Cai, Jinhui Wu, Wei Wang, Jie Li, Bin Liu, Liangcheng Qu, Kuiying Yin, Pasquale Molinaro, Giancarlo Fortino, Jianqing Li, Wentao Xiang*</dd>
+  <dd>Keke Shi<sup>&dagger;</sup>, <strong>Hongbin Chen<sup>&dagger;</sup></strong>, Keshu Cai, Jinhui Wu, Wei Wang, Jie Li, Bin Liu, Liangcheng Qu, Kuiying Yin, Pasquale Molinaro, Giancarlo Fortino, Jianqing Li, Wentao Xiang*</dd>
   <dd>IEEE Trans. on Affective Computing <strong>(TAFFC)</strong>, 2026</dd>
   <dd>
     <a href="https://github.com/Codenewwer/feresdpnet" target="_blank" style="text-decoration: none; color: #181717; font-weight: bold;">
