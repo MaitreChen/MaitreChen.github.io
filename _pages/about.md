@@ -119,6 +119,9 @@ Let's collaborate! I promise to reply to your email much faster than my deepest 
 # 🔥 News
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
+  <li><em>2026.04:</em> 🎉🎉 DiVA was accepted by JBHI!</li>
+</ul>
+<ul>
   <li><em>2026.03:</em> 🎉🎉 ES-DPNet was accepted by IEEE Trans. on Affective Computing!</li>
 </ul>
 <ul>
@@ -132,6 +135,30 @@ Let's collaborate! I promise to reply to your email much faster than my deepest 
 # 📝 Publications 
 &dagger;: equal contribution, * : corresponding author
 
+
+<hr>
+
+<dl>
+<dt>
+    <div class="pub-img-wrapper">
+      <span class="pub-badge">JBHI 2026</span>
+      <img width="400" src="../images/paper/DiVA.png" alt="DiVA">
+    </div>
+  </dt>
+  <dd>
+    <a href="https://doi.org/10.1109/JBHI.2026.3679693" class="publication-title">Towards Cognitive Impairment Screening in Elderly Communities with Audio-Visual Modal Disentangled Representation Learning
+    </a>
+  </dd>
+  <dd>Rui Feng, <strong>Hongbin Chen</strong>, Yihao Yao, Liuyu Wu, Tao Liang, Wentao Xiang, Jie Li, Chu Kiong Loo, Junxiao Yu*, Wei Wang*, Jianqing Li*</dd>
+  <dd>Journal of Biomedical and Health Informatics <strong>(JBHI)</strong>, 2026</dd>
+  <dd>
+    <a href="https://github.com/FengRui1998/DiVA" target="_blank" style="text-decoration: none; color: #181717; font-weight: bold;">
+      <i class="fab fa-github" style="font-size: 1.2em; margin-right: 5px;"></i>[Code & Project]
+    </a>
+  </dd>
+</dl>
+
+
 <hr>
 
 <dl>
@@ -142,10 +169,10 @@ Let's collaborate! I promise to reply to your email much faster than my deepest 
     </div>
   </dt>
   <dd>
-    <!-- <a href="https://link.springer.com/chapter/10.1007/978-981-95-5567-3_29" class="publication-title">Facial Expression Recognition for Chinese Elderly Using Edge and Semantic features Dual Path Network with Two-step Transfer Learning
-    </a> -->
-    <a href="javascript:alert('The publisher is still brewing the coffee! Paper will be online soon. ☕');" class="publication-title" style="cursor: help;">Facial Expression Recognition for Chinese Elderly Using Edge and Semantic features Dual Path Network with Two-step Transfer Learning
+    <a href="https://doi.org/10.1109/TAFFC.2026.3679686" class="publication-title">Facial Expression Recognition for Chinese Elderly Using Edge and Semantic features Dual Path Network with Two-step Transfer Learning
     </a>
+    <!-- <a href="javascript:alert('The publisher is still brewing the coffee! Paper will be online soon. ☕');" class="publication-title" style="cursor: help;">Facial Expression Recognition for Chinese Elderly Using Edge and Semantic features Dual Path Network with Two-step Transfer Learning
+    </a> -->
   </dd>
   <dd>Keke Shi<sup>&dagger;</sup>, <strong>Hongbin Chen<sup>&dagger;</sup></strong>, Keshu Cai, Jinhui Wu, Wei Wang, Jie Li, Bin Liu, Liangcheng Qu, Kuiying Yin, Pasquale Molinaro, Giancarlo Fortino, Jianqing Li, Wentao Xiang*</dd>
   <dd>IEEE Trans. on Affective Computing <strong>(TAFFC)</strong>, 2026</dd>
