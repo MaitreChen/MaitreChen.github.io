@@ -196,8 +196,13 @@ Let's collaborate! I promise to reply to your email much faster than my deepest 
     <a href="https://link.springer.com/chapter/10.1007/978-981-95-5567-3_29" class="publication-title">MOFA: Modality-Orthogonalized Fusion Architecture for Multimodal Emotion Recognition
     </a>
   </dd>
-  <dd><strong>Hongbin Chen</strong>, Rui Feng, Jie Li, Wei Wang, Jianqin Li*, Wentao Xiang*</dd>
+  <dd><strong>Hongbin Chen</strong>, Rui Feng, Jie Li, Wei Wang, Jianqing Li*, Wentao Xiang*</dd>
   <dd>Chinese Conference on Pattern Recognition and Computer Vision <strong>(PRCV)</strong>, 2025</dd>
+    <dd>
+    <a href="https://github.com/MaitreChen/MOFA" target="_blank" style="text-decoration: none; color: #181717; font-weight: bold;">
+      <i class="fab fa-github" style="font-size: 1.2em; margin-right: 5px;"></i>[Code & Project]
+    </a>
+  </dd>
 </dl>
 
 <hr>
@@ -208,11 +213,11 @@ Let's collaborate! I promise to reply to your email much faster than my deepest 
 
 
 # 🎖 Honors and Awards
-- *2025.11* National Graduate Scholarship (Master Student)
+- *2025.11* National Graduate Scholarship (top 2%, Master Student)
 - *2025.10* First-Class Graduate Scholarship (Master Student)
-- *2024.08* Excellent Undergraduate Thesis Award, Jiangsu Province
+- *2024.08* Excellent Undergraduate Thesis Award, Jiangsu Province (only recipient from the School of Software Engineering)
 - *2024.06* Outstanding Undergraduate Graduate
 
 
 # 💬 Professional Services
-- Conference Reviewer: PRCV (2026).
+- Conference Reviewer: PRCV (2025,, 2026).
