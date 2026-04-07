@@ -108,7 +108,7 @@ redirect_from:
 
 
 # Short Bio
-My name is Hongbin Chen (陈宏斌), and I am currently a second-year Master's student in Biotechnology and Engineering at the [School of Biomedical Engineering and Informatics, Nanjing Medical University](https://english.njmu.edu.cn/), supervised by Prof. [Jianqing Li](https://bmei.njmu.edu.cn/2018/1120/c19988a262557/page.htm) and Assoc. Prof. [Wentao Xiang](https://scholar.google.com/citations?hl=zh-CN&user=-foPGxYAAAAJ&view_op=list_works&sortby=pubdate). I am also a Ph.D. candidate in Clinical Medical Engineering and affiliated with the Jiangsu Province Engineering Research Center for Smart Wearable and Rehabilitation Devices. 
+My name is Hongbin Chen (陈宏斌), and I am currently a second-year Master's student in Biotechnology and Engineering at the [School of Biomedical Engineering and Informatics, Nanjing Medical University](https://english.njmu.edu.cn/), supervised by Prof. [Jianqing Li](https://bmei.njmu.edu.cn/2018/1120/c19988a262557/page.htm) and Assoc. Prof. [Wentao Xiang](https://scholar.google.com/citations?hl=zh-CN&user=-foPGxYAAAAJ&view_op=list_works&sortby=pubdate). I am also a Ph.D. candidate in Clinical Medical Engineering and affiliated with the Jiangsu Province Engineering Research Center for Smart Wearable and Rehabilitation Devices. Additionally, I am a member of [EmoLab](https://emolab-ai.github.io/), and welcome you to explore our research!
 
 My research interests lie in **Affective Computing**, with a particular focus on multimodal emotion recognition for older adults. 
 
@@ -220,4 +220,4 @@ Let's collaborate! I promise to reply to your email much faster than my deepest 
 
 
 # 💬 Professional Services
-- Conference Reviewer: PRCV (2025,, 2026).
+- Conference Reviewer: PRCV (2025, 2026).
