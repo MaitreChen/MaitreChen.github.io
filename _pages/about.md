@@ -209,14 +209,20 @@ Let's collaborate! I promise to reply to your email much faster than my deepest 
 
 
 
-
+# 🎤 Talks
+- *2025.06* Chinese Biomedical Engineering Conference, Suzhou. **Oral Presentation**.
+- *2025.03* Forum on Biological Health and Smart Healthcare Development, Shenzhen. **Oral Presentation**.
+- *2025.01* Jiangsu Postgraduate Academic Innovation Forum on Medical and Engineering Intersection, Nanjing. **Oral Presentation**.
+- *2024.11* Sharing on My Graduate Study and Research Experience, Sisyphus Vision Laboratory. **Invited Talk**.
 
 
 # 🎖 Honors and Awards
+- *2026.04* Merit student of Nanjing Medical University
 - *2025.11* National Graduate Scholarship (top 2%, Master Student)
 - *2025.10* First-Class Graduate Scholarship (Master Student)
 - *2024.08* Excellent Undergraduate Thesis Award, Jiangsu Province (only recipient from the School of Software Engineering)
 - *2024.06* Outstanding Undergraduate Graduate
+
 
 
 # 💬 Professional Services
