@@ -210,10 +210,11 @@ Let's collaborate! I promise to reply to your email much faster than my deepest 
 
 
 # 🎤 Talks
+- *2026.04* Sharing on "My Research Journey", Future Society. **Invited Talk**.
 - *2025.06* Chinese Biomedical Engineering Conference, Suzhou. **Oral Presentation**.
 - *2025.03* Forum on Biological Health and Smart Healthcare Development, Shenzhen. **Oral Presentation**.
 - *2025.01* Jiangsu Postgraduate Academic Innovation Forum on Medical and Engineering Intersection, Nanjing. **Oral Presentation**.
-- *2024.11* Sharing on My Graduate Study and Research Experience, Sisyphus Vision Laboratory. **Invited Talk**.
+- *2024.11* Sharing on "My Graduate Study and Research Experience", Sisyphus Vision Laboratory. **Invited Talk**.
 
 
 # 🎖 Honors and Awards
