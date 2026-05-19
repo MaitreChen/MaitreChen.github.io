@@ -138,7 +138,7 @@ Let's collaborate! I promise to reply to your email much faster than my deepest 
 <hr>
 
 <dl>
-<dt>
+  <dt>
     <div class="pub-img-wrapper">
       <span class="pub-badge">JBHI 2026</span>
       <img width="400" src="../images/paper/MECO.png" alt="MECO">
@@ -146,6 +146,7 @@ Let's collaborate! I promise to reply to your email much faster than my deepest 
   </dt>
   <dd>
     <a href="https://arxiv.org/abs/2604.03050" class="publication-title">MECO: A Multimodal Dataset for Emotion and Cognitive Understanding in Older Adults
+    </a>
   </dd>
   <dd><strong>Hongbin Chen</strong>, Jie Li, Wei Wang, Siyang Song, Xiao Gu, Jianqing Li*, Wentao Xiang*</dd>
   <dd>Preprint</dd>
@@ -160,7 +161,7 @@ Let's collaborate! I promise to reply to your email much faster than my deepest 
 <hr>
 
 <dl>
-<dt>
+  <dt>
     <div class="pub-img-wrapper">
       <span class="pub-badge">JBHI 2026</span>
       <img width="400" src="../images/paper/DiVA.png" alt="DiVA">
@@ -183,7 +184,7 @@ Let's collaborate! I promise to reply to your email much faster than my deepest 
 <hr>
 
 <dl>
-<dt>
+  <dt>
     <div class="pub-img-wrapper">
       <span class="pub-badge">TAFFC 2026</span>
       <img width="400" src="../images/paper/ES-DPNet.jpg" alt="ES-DPNet">
@@ -205,7 +206,7 @@ Let's collaborate! I promise to reply to your email much faster than my deepest 
 <hr>
 
 <dl>
-<dt>
+  <dt>
     <div class="pub-img-wrapper">
       <span class="pub-badge">PRCV 2025</span>
       <img width="400" src="../images/paper/MOFA.jpg" alt="MOFA">
