@@ -140,7 +140,7 @@ Let's collaborate! I promise to reply to your email much faster than my deepest 
 <dl>
   <dt>
     <div class="pub-img-wrapper">
-      <span class="pub-badge">JBHI 2026</span>
+      <span class="pub-badge">Preprint 2026</span>
       <img width="400" src="../images/paper/MECO.png" alt="MECO">
     </div>
   </dt>
