@@ -135,6 +135,27 @@ Let's collaborate! I promise to reply to your email much faster than my deepest 
 # 📝 Publications 
 &dagger;: equal contribution, * : corresponding author
 
+<hr>
+
+<dl>
+<dt>
+    <div class="pub-img-wrapper">
+      <span class="pub-badge">JBHI 2026</span>
+      <img width="400" src="../images/paper/MECO.png" alt="MECO">
+    </div>
+  </dt>
+  <dd>
+    <a href="https://arxiv.org/abs/2604.03050" class="publication-title">MECO: A Multimodal Dataset for Emotion and Cognitive Understanding in Older Adults
+  </dd>
+  <dd><strong>Hongbin Chen</strong>, Jie Li, Wei Wang, Siyang Song, Xiao Gu, Jianqing Li*, Wentao Xiang*</dd>
+  <dd>Preprint</dd>
+  <dd>
+    <a href="https://maitrechen.github.io/meco-page/" target="_blank" style="text-decoration: none; color: #181717; font-weight: bold;">
+      <i class="fab fa-github" style="font-size: 1.2em; margin-right: 5px;"></i>[Code & Project]
+    </a>
+  </dd>
+</dl>
+
 
 <hr>
 
@@ -171,8 +192,6 @@ Let's collaborate! I promise to reply to your email much faster than my deepest 
   <dd>
     <a href="https://doi.org/10.1109/TAFFC.2026.3679686" class="publication-title">Facial Expression Recognition for Chinese Elderly Using Edge and Semantic features Dual Path Network with Two-step Transfer Learning
     </a>
-    <!-- <a href="javascript:alert('The publisher is still brewing the coffee! Paper will be online soon. ☕');" class="publication-title" style="cursor: help;">Facial Expression Recognition for Chinese Elderly Using Edge and Semantic features Dual Path Network with Two-step Transfer Learning
-    </a> -->
   </dd>
   <dd>Keke Shi<sup>&dagger;</sup>, <strong>Hongbin Chen<sup>&dagger;</sup></strong>, Keshu Cai, Jinhui Wu, Wei Wang, Jie Li, Bin Liu, Liangcheng Qu, Kuiying Yin, Pasquale Molinaro, Giancarlo Fortino, Jianqing Li, Wentao Xiang*</dd>
   <dd>IEEE Trans. on Affective Computing <strong>(TAFFC)</strong>, 2026</dd>
@@ -218,9 +237,16 @@ Let's collaborate! I promise to reply to your email much faster than my deepest 
 
 
 # 🎖 Honors and Awards
-- *2026.04* Merit student of Nanjing Medical University
-- *2025.11* National Graduate Scholarship (top 2%, Master Student)
-- *2025.10* First-Class Graduate Scholarship (Master Student)
+
+## 🏆 Academic Awards
+- *2026.05* The Intelligent Human-Machine-Environment Engineering Conference, **Excellent Paper Award**.
+- *2025.12* Jiangsu Graduate Academic Innovation Forum on Medical-Engineering Integration, **Excellent Poster Award**.
+- *2025.01* Jiangsu Graduate Academic Innovation Forum on Medical-Engineering Interdisciplinary Research, **Excellent Paper Award**.
+
+## 🎓 Scholarships and Honors
+- *2026.04* Merit Student of Nanjing Medical University
+- *2025.11* National Graduate Scholarship (Top 2%, Master's Student)
+- *2025.10* First-Class Graduate Scholarship (Master's Student)
 - *2024.08* Excellent Undergraduate Thesis Award, Jiangsu Province (only recipient from the School of Software Engineering)
 - *2024.06* Outstanding Undergraduate Graduate
 
