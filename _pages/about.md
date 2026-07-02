@@ -108,7 +108,7 @@ redirect_from:
 
 
 # Short Bio
-My name is Hongbin Chen (陈宏斌), and I am currently a second-year Master's student in Biotechnology and Engineering at the [School of Biomedical Engineering and Informatics, Nanjing Medical University](https://english.njmu.edu.cn/), supervised by Prof. [Jianqing Li](https://bmei.njmu.edu.cn/2018/1120/c19988a262557/page.htm) and Assoc. Prof. [Wentao Xiang](https://scholar.google.com/citations?hl=zh-CN&user=-foPGxYAAAAJ&view_op=list_works&sortby=pubdate). I am also a Ph.D. candidate in Clinical Medical Engineering and affiliated with the Jiangsu Province Engineering Research Center for Smart Wearable and Rehabilitation Devices. Additionally, I am a member of [EmoLab](https://emolab-ai.github.io/), and welcome you to explore our research!
+My name is Hongbin Chen (陈宏斌). I am currently a Ph.D. student in Clinical Medical Engineering at the [School of Biomedical Engineering and Informatics, Nanjing Medical University](https://english.njmu.edu.cn/), supervised by Prof. [Jianqing Li](https://bmei.njmu.edu.cn/2018/1120/c19988a262557/page.htm) and Assoc. Prof. [Wentao Xiang](https://scholar.google.com/citations?hl=zh-CN&user=-foPGxYAAAAJ&view_op=list_works&sortby=pubdate). Before starting my Ph.D. study, I was a Master’s student in Biotechnology and Engineering at the same school. I am affiliated with the Jiangsu Province Engineering Research Center for Smart Wearable and Rehabilitation Devices. I am also a member of [CARELab](https://emolab-ai.github.io/), where our research focuses on cognitive and affective computing for rehabilitation and embodied intelligence. You are welcome to explore our research.
 
 My research interests lie in **Affective Computing**, with a particular focus on multimodal emotion recognition for older adults. 
 
@@ -118,6 +118,15 @@ Let's collaborate! I promise to reply to your email much faster than my deepest 
 
 # 🔥 News
 <div style="max-height: 200px; overflow-y: auto;">
+<ul>
+  <li><em>2026.07:</em> 🎉🎉 Will attend CCAC 2026 in Wuhan!</li>
+</ul>
+<ul>
+  <li><em>2026.06:</em> 🎉🎉 Completed the mid-program review for my master's program!</li>
+</ul>
+<ul>
+  <li><em>2026.05:</em> 🎉🎉 Attended BME2026 in Suzhou, and gave an Oral presentation!</li>
+</ul>
 <ul>
   <li><em>2026.04:</em> 🎉🎉 DiVA was accepted by JBHI!</li>
 </ul>
@@ -230,6 +239,7 @@ Let's collaborate! I promise to reply to your email much faster than my deepest 
 
 
 # 🎤 Talks
+- *2026.05* Chinese Biomedical Engineering Conference, Suzhou. **Oral Presentation**.
 - *2026.04* Sharing on "My Research Journey", Future Society. **Invited Talk**.
 - *2025.06* Chinese Biomedical Engineering Conference, Suzhou. **Oral Presentation**.
 - *2025.03* Forum on Biological Health and Smart Healthcare Development, Shenzhen. **Oral Presentation**.
@@ -250,7 +260,6 @@ Let's collaborate! I promise to reply to your email much faster than my deepest 
 - *2025.10* First-Class Graduate Scholarship (Master's Student)
 - *2024.08* Excellent Undergraduate Thesis Award, Jiangsu Province (only recipient from the School of Software Engineering)
 - *2024.06* Outstanding Undergraduate Graduate
-
 
 
 # 💬 Professional Services
