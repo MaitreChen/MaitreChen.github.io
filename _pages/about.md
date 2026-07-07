@@ -93,6 +93,11 @@ redirect_from:
     z-index: 10;
     border-bottom-right-radius: 6px; 
   }
+
+  .cn-kaiti {
+  font-family: "Kaiti SC", "STKaiti", "KaiTi", "KaiTi_GB2312", "楷体", serif;
+  font-style: normal;
+}
   
 
 </style>
@@ -108,7 +113,7 @@ redirect_from:
 
 
 # Short Bio
-My name is Hongbin Chen (陈宏斌). I am currently a Ph.D. student in Clinical Medical Engineering at the [School of Biomedical Engineering and Informatics, Nanjing Medical University](https://english.njmu.edu.cn/), supervised by Prof. [Jianqing Li](https://bmei.njmu.edu.cn/2018/1120/c19988a262557/page.htm) and Assoc. Prof. [Wentao Xiang](https://scholar.google.com/citations?hl=zh-CN&user=-foPGxYAAAAJ&view_op=list_works&sortby=pubdate). Before starting my Ph.D. study, I was a Master’s student in Biotechnology and Engineering at the same school. I am affiliated with the Jiangsu Province Engineering Research Center for Smart Wearable and Rehabilitation Devices. I am also a member of [CARELab](https://emolab-ai.github.io/), where our research focuses on cognitive and affective computing for rehabilitation and embodied intelligence. You are welcome to explore our research.
+My name is Hongbin Chen (<span class="cn-kaiti">陈宏斌</span>). I am an incoming Ph.D. student in Clinical Medical Engineering at the [School of Biomedical Engineering and Informatics, Nanjing Medical University](https://english.njmu.edu.cn/), supervised by Prof. [Jianqing Li](https://bmei.njmu.edu.cn/2018/1120/c19988a262557/page.htm) and Assoc. Prof. [Wentao Xiang](https://scholar.google.com/citations?hl=zh-CN&user=-foPGxYAAAAJ&view_op=list_works&sortby=pubdate). Before starting my Ph.D. study, I was a Master’s student in Biotechnology and Engineering at the same school. I am affiliated with the Jiangsu Province Engineering Research Center for Smart Wearable and Rehabilitation Devices. I am also a member of [CARELab](https://emolab-ai.github.io/), where our research focuses on cognitive and affective computing for rehabilitation and embodied intelligence. You are welcome to explore our research.
 
 My research interests lie in **Affective Computing**, with a particular focus on multimodal emotion recognition for older adults. 
 
@@ -119,7 +124,7 @@ Let's collaborate! I promise to reply to your email much faster than my deepest 
 # 🔥 News
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
-  <li><em>2026.07:</em> 🎉🎉 Will attend CCAC 2026 in Wuhan!</li>
+  <li><em>2026.07:</em> 🎉🎉 Will attend CCAC 2026 in Wuhan, and National Biomedical Engineering Innovation Design Competition in Hainan!</li>
 </ul>
 <ul>
   <li><em>2026.06:</em> 🎉🎉 Completed the mid-program review for my master's program!</li>
@@ -138,6 +143,10 @@ Let's collaborate! I promise to reply to your email much faster than my deepest 
 </ul>
 
 </div>
+
+
+
+
 
 
 
