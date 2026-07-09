@@ -273,3 +273,9 @@ Let's collaborate! I promise to reply to your email much faster than my deepest 
 
 # 💬 Professional Services
 - Conference Reviewer: PRCV (2025, 2026).
+
+## Memberships
+- Student Member, Chinese Information Processing Society of China (CIPS)
+- Student Member, Chinese Association for Artificial Intelligence (CAAI)
+- Student Member, Chinese Society of Biomedical Engineering (CSBME)
+- Student Member, China Society of Image and Graphics (CSIG)

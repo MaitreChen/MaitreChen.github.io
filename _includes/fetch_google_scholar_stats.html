@@ -1,4 +1,4 @@
-<script>
+<!-- <script>
     $(document).ready(function () {
         {% if site.google_scholar_stats_use_cdn %}
         var gsDataBaseUrl = 'https://cdn.jsdelivr.net/gh/{{ site.repository }}@'
@@ -16,4 +16,38 @@
             });
         });
     })
+</script> -->
+
+<script>
+  $(document).ready(function () {
+    {% if site.google_scholar_stats_use_cdn %}
+    var gsDataBaseUrl = 'https://cdn.jsdelivr.net/gh/{{ site.repository }}@main/';
+    {% else %}
+    var gsDataBaseUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/main/';
+    {% endif %}
+
+    $.getJSON(gsDataBaseUrl + 'google-scholar-stats/gs_data.json', function (data) {
+      var totalCitation = data['citedby'];
+
+      var totalCitElement = document.getElementById('total_cit');
+      if (totalCitElement) {
+        totalCitElement.innerHTML = totalCitation;
+      }
+
+      var citationEles = document.getElementsByClassName('show_paper_citations');
+
+      Array.prototype.forEach.call(citationEles, function (element) {
+        var paperId = element.getAttribute('data');
+
+        if (
+          data['publications'] &&
+          data['publications'][paperId] &&
+          data['publications'][paperId]['num_citations'] !== undefined
+        ) {
+          var numCitations = data['publications'][paperId]['num_citations'];
+          element.innerHTML = '| Citations: ' + numCitations;
+        }
+      });
+    });
+  });
 </script>
