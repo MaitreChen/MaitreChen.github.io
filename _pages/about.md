@@ -124,10 +124,10 @@ Let's collaborate! I promise to reply to your email much faster than my deepest 
 # 🔥 News
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
-  <li><em>2026.07:</em> 🎉🎉 Will attend CCAC 2026 in Wuhan, and National Biomedical Engineering Innovation Design Competition in Hainan!</li>
+  <li><em>2026.07:</em> 🎉🎉 Attended CCAC 2026 in Wuhan, and the National Biomedical Engineering Innovation Design Competition in Hainan, achieving First Prize (top 5% of participants).</li>
 </ul>
 <ul>
-  <li><em>2026.06:</em> 🎉🎉 Completed the mid-program review for my master's program!</li>
+  <li><em>2026.06:</em> 🎉🎉 Completed my master’s midterm thesis defense!</li>
 </ul>
 <ul>
   <li><em>2026.05:</em> 🎉🎉 Attended BME2026 in Suzhou, and gave an Oral presentation!</li>
@@ -242,9 +242,7 @@ Let's collaborate! I promise to reply to your email much faster than my deepest 
     </a>
   </dd>
 </dl>
-
 <hr>
-
 
 
 # 🎤 Talks
@@ -259,6 +257,7 @@ Let's collaborate! I promise to reply to your email much faster than my deepest 
 # 🎖 Honors and Awards
 
 ## 🏆 Academic Awards
+- *2026.07* National Biomedical Engineering Innovation Design Competition, **First Prize (Top 5% of participating teams)**.
 - *2026.05* The Intelligent Human-Machine-Environment Engineering Conference, **Excellent Paper Award**.
 - *2025.12* Jiangsu Graduate Academic Innovation Forum on Medical-Engineering Integration, **Excellent Poster Award**.
 - *2025.01* Jiangsu Graduate Academic Innovation Forum on Medical-Engineering Interdisciplinary Research, **Excellent Paper Award**.
@@ -272,6 +271,7 @@ Let's collaborate! I promise to reply to your email much faster than my deepest 
 
 
 # 💬 Professional Services
+- Journal Reviewer: IEEE Internet of Things Journal.
 - Conference Reviewer: PRCV (2025, 2026).
 
 ## Memberships
