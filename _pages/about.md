@@ -113,7 +113,7 @@ redirect_from:
 
 
 # Short Bio
-My name is Hongbin Chen (<span class="cn-kaiti">陈宏斌</span>). I am an incoming Ph.D. student in Clinical Medical Engineering at the [School of Biomedical Engineering and Informatics, Nanjing Medical University](https://english.njmu.edu.cn/), supervised by Prof. [Jianqing Li](https://bmei.njmu.edu.cn/2018/1120/c19988a262557/page.htm) and Assoc. Prof. [Wentao Xiang](https://scholar.google.com/citations?hl=zh-CN&user=-foPGxYAAAAJ&view_op=list_works&sortby=pubdate). Before starting my Ph.D. study, I was a Master’s student in Biotechnology and Engineering at the same school. I am affiliated with the Jiangsu Province Engineering Research Center for Smart Wearable and Rehabilitation Devices. I am also a member of [CARELab](https://emolab-ai.github.io/), where our research focuses on cognitive and affective computing for rehabilitation and embodied intelligence. You are welcome to explore our research.
+My name is Hongbin Chen (<span class="cn-kaiti">陈宏斌</span> in Chinese). I am a first-year Ph.D. student in Clinical Medical Engineering at the [School of Biomedical Engineering and Informatics, Nanjing Medical University](https://english.njmu.edu.cn/), supervised by Prof. [Jianqing Li](https://bmei.njmu.edu.cn/2018/1120/c19988a262557/page.htm) and Assoc. Prof. [Wentao Xiang](https://scholar.google.com/citations?hl=zh-CN&user=-foPGxYAAAAJ&view_op=list_works&sortby=pubdate). Before starting my Ph.D. study, I was a Master’s student in Biotechnology and Engineering at the same school. I am affiliated with the Jiangsu Province Engineering Research Center for Smart Wearable and Rehabilitation Devices. I am also a member of [CARELab](https://emolab-ai.github.io/), where our research focuses on cognitive and affective computing for rehabilitation and embodied intelligence. You are welcome to explore our research.
 
 My research interests lie in **Affective Computing**, with a particular focus on multimodal emotion recognition for older adults. 
 
@@ -123,6 +123,9 @@ Let's collaborate! I promise to reply to your email much faster than my deepest 
 
 # 🔥 News
 <div style="max-height: 200px; overflow-y: auto;">
+<ul>
+  <li><em>2026.10:</em> 🎉🎉 Three abstracts were accepted for the <a href="https://www.cei2026.com/en" target="_blank">4th CSIG Conference on Affective Intelligence (CEI 2026)</a>, and I will attend the conference held in Zhenjiang.</li>
+</ul>
 <ul>
   <li><em>2026.07:</em> 🎉🎉 Attended CCAC 2026 in Wuhan, and the National Biomedical Engineering Innovation Design Competition in Hainan, achieving First Prize (top 5% of participants).</li>
 </ul>
@@ -263,6 +266,7 @@ Let's collaborate! I promise to reply to your email much faster than my deepest 
 - *2025.01* Jiangsu Graduate Academic Innovation Forum on Medical-Engineering Interdisciplinary Research, **Excellent Paper Award**.
 
 ## 🎓 Scholarships and Honors
+- *2026.09* First-Class Entrance Scholarship (Ph.D. Student)
 - *2026.04* Merit Student of Nanjing Medical University
 - *2025.11* National Graduate Scholarship (Top 2%, Master's Student)
 - *2025.10* First-Class Graduate Scholarship (Master's Student)
@@ -279,3 +283,4 @@ Let's collaborate! I promise to reply to your email much faster than my deepest 
 - Student Member, Chinese Association for Artificial Intelligence (CAAI)
 - Student Member, Chinese Society of Biomedical Engineering (CSBME)
 - Student Member, China Society of Image and Graphics (CSIG)
+- Student Member, JiangSu Association of Artificial Intelligence (JSAI)
