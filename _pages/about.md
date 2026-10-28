@@ -124,8 +124,9 @@ Let's collaborate! I promise to reply to your email much faster than my deepest 
 # 🔥 News
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
-  <li><em>2026.10:</em> 🎉🎉 Three abstracts were accepted for the <a href="https://www.cei2026.com/en" target="_blank">4th CSIG Conference on Affective Intelligence (CEI 2026)</a>, and I will attend the conference held in Zhenjiang.</li>
+  <li><em>2026.10:</em> 🎉🎉 One paper was accepted by <strong>TAFFC</strong>, and three abstracts were accepted for the <a href="https://www.cei2026.com/en" target="_blank">4th CSIG Conference on Affective Intelligence (CEI 2026)</a>. I will attend the conference in Zhenjiang.</li>
 </ul>
+
 <ul>
   <li><em>2026.07:</em> 🎉🎉 Attended CCAC 2026 in Wuhan, and the National Biomedical Engineering Innovation Design Competition in Hainan, achieving First Prize (top 5% of participants).</li>
 </ul>
@@ -139,7 +140,7 @@ Let's collaborate! I promise to reply to your email much faster than my deepest 
   <li><em>2026.04:</em> 🎉🎉 DiVA was accepted by JBHI!</li>
 </ul>
 <ul>
-  <li><em>2026.03:</em> 🎉🎉 ES-DPNet was accepted by IEEE Trans. on Affective Computing!</li>
+  <li><em>2026.03:</em> 🎉🎉 ES-DPNet was accepted by TAFFC!</li>
 </ul>
 <ul>
   <li><em>2025.08:</em> 🎉🎉 MOFA was accepted by PRCV 2025!</li>
@@ -155,6 +156,28 @@ Let's collaborate! I promise to reply to your email much faster than my deepest 
 
 # 📝 Publications 
 &dagger;: equal contribution, * : corresponding author
+
+<hr>
+
+<dl>
+  <dt>
+    <div class="pub-img-wrapper">
+      <span class="pub-badge">TAFFC 2026</span>
+      <img width="400" src="../images/paper/MOFA-PLUS.png" alt="MOFA-PLUS">
+    </div>
+  </dt>
+  <dd>
+    <a href="https://doi.org/10.1109/TAFFC.2026.3745611" class="publication-title">Modality Orthogonal Fusion with Alignment Framework for Multimodal Emotion Recognition
+    </a>
+  </dd>
+  <dd><strong>Hongbin Chen</strong>, Rui Feng, Shuai Shi, Jinhui Wu, Jie Li, Wei Wang, Chunfeng Yang, Giancarlo Fortino, Raffaele Gravina, Jianqing Li*, Wentao Xiang*</dd>
+  <dd>IEEE Trans. on Affective Computing </dd>
+  <dd>
+    <a href="https://github.com/MaitreChen/MOFA" target="_blank" style="text-decoration: none; color: #181717; font-weight: bold;">
+      <i class="fab fa-github" style="font-size: 1.2em; margin-right: 5px;"></i>[Code & Project]
+    </a>
+  </dd>
+</dl>
 
 <hr>
 
